@@ -11,3 +11,6 @@ def test_to_lower():
     
 def test_hola():
     assert hola()=="hola"
+    
+def test_adios():
+    assert adios()=="bye"
