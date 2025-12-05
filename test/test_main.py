@@ -1,4 +1,4 @@
-from src.main import hola, multiplicacion, to_lower, to_upper
+from src.main import adios, hola, multiplicacion, to_lower, to_upper
 def test_multiplicacion():
     assert multiplicacion(2,3)==6
     
